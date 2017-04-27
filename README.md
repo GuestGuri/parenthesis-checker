@@ -1,2 +1,2 @@
-# parenthesis-checker
-A Java implementation of a stack based parenthesis checker. It determines if a given expression is either valid or not
+# Parenthesis-shecker
+A java implementation of a simple parenthesis checker based on a stack. The program includes a stack implementation and a Main class to check balanced expressions
